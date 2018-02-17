@@ -1,0 +1,94 @@
+[
+  {
+    "status": "green/yellow/red",
+    "timestemp": 0,
+    "collector": {
+      "journalbeat": {
+        "status": {
+          "scheduled": 10,
+          "up": 10
+        },
+        "instances": [
+          {
+            "node": "string",
+            "pod_id": "string",
+            "status": "up/down"
+          }
+        ]
+      },
+      "filebeat": {
+        "status": {
+          "scheduled": 10,
+          "up": 10
+        },
+        "instances": []
+      },
+      "http_gateway": {
+        "status": {
+          "scheduled": 10,
+          "up": 10
+        }
+      }
+    },
+    "parser": {
+      "status": {
+        "scheduled": 10,
+        "up": 10
+      }
+    },
+    "shipper": {
+      "status": {
+        "scheduled": 10,
+        "up": 10
+      }
+    },
+    "kafka": {
+      "health_check": true,
+      "zookeeper": {
+        "status": {
+          "scheduled": 3,
+          "up": 3
+        }
+      },
+      "broker": {
+        "status": {
+          "scheduled": 3,
+          "up": 3
+        }
+      }
+    },
+    "elasticsearch": {
+      "status": {
+        "master": {
+          "scheduled": 3,
+          "up": 3
+        },
+        "client": {
+          "scheduled": 3,
+          "up": 3
+        },
+        "data": {
+          "scheduled": 3,
+          "up": 3
+        }
+      },
+      "health": {
+        "cluster_name": "elasticsearch",
+        "status": "green",
+        "timed_out": false,
+        "number_of_nodes": 12,
+        "number_of_data_nodes": 10,
+        "active_primary_shards": 2006,
+        "active_shards": 4012,
+        "relocating_shards": 0,
+        "initializing_shards": 0,
+        "unassigned_shards": 0,
+        "delayed_unassigned_shards": 0,
+        "number_of_pending_tasks": 0,
+        "number_of_in_flight_fetch": 0,
+        "task_max_waiting_in_queue_millis": 0,
+        "active_shards_percent_as_number": 100
+      }
+    }
+  }
+]
