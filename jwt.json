@@ -1,0 +1,17 @@
+{
+  "iat": 1516792419,
+  "exp": 1548334419,
+  "user_id": "12203",
+  "email": "linyzbj@cn.linyz.net",
+  "role": [
+    "cloud",
+    "tenant",
+    "user"
+  ],
+  "access": [
+    {
+      "method": ["GET","POST","DELETE"],
+      "URL":["[mscp_api_url]/[region]/system/log"]
+    }
+  ]
+}
