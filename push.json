@@ -1,0 +1,12 @@
+{
+  "timestemp": 1516792419231221,
+  "appid": "caa0c2f0-1116-495f-8f09-3cd023cc14a2",
+  "type": "applog",
+  "message":"Message to send.",
+  "annotations":[
+    {
+      "key":"level",
+      "value":"info"
+    },...
+  ]
+}
