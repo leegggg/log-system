@@ -1,0 +1,68 @@
+
+
+     [2017-11-16 15:23:41][un_known][12][1558][S7aEKdh6GQhbfyLmkMnvAerv]
+     [2017-11-16 15:23:41][un_known][12][1559][dqTHzRbCHYQWnVFLG8gbXcb2]
+     [2017-11-16 15:23:42][un_known][12][1560][jckZMjVJb6vzKRGj4qHNK255]
+     [2017-11-16 15:23:42][un_known][12][1561][6qgWb5Np9zb6LvauPjXcxmUd]
+     [2017-11-16 15:23:42][un_known][12][1562][CVR45LW9ZUTM7K3qBe5bMBGQ]
+     [2017-11-16 15:23:42][un_known][12][1563][6G4GkV4MZV4rNd4tyPZjKnTR]
+     [2017-11-16 15:23:42][un_known][12][1564][avUwenF8nsG6XfHsTUAhBG8K]
+     [2017-11-16 15:23:42][un_known][12][1568][djheHNRSQYMH8ad7JLypcjv3]
+     [2017-11-16 15:23:42][un_known][12][1567][TPqgwaWfHR3UjC3LQKSeJcx4]
+     [2017-11-16 15:23:43][un_known][12][1569][PvWJKFMteYY2GaV8G6VjTrez] <- 混乱消费
+     [2017-11-16 15:23:43][un_known][12][1570][F67FLsS7Qcf5BhjmLqLSHrWX]
+     [2017-11-16 15:23:43][un_known][12][1571][F4DT2Zvgh6z64X5qq28888jT]
+     [2017-11-16 15:23:43][un_known][12][1572][SwUyTrZAK5vCcz5S9Cnzyd6Z]
+     [2017-11-16 15:23:43][un_known][12][1573][CstAs3JqDe2fRjHAk8Wnse7Q]
+     [2017-11-16 15:23:43][un_known][12][1574][zfmhhjxSMmCVcQaYjHfvZFpn]
+     [2017-11-16 15:23:43][un_known][12][1575][VfsHWDJcdN6XH3VPm88zSpyV]
+     
+     
+     
+No broker partitions consumed by consumer...
+
+
+3VUwBSUuZxXgfMXKr3nX96EU
+uJkSpBJr7BRBQzJ2A7jXEquU
+2nTtYLGY3Lf9Dd6yyzpgASM7
+rFV4fdh8mkQ6v5ykwD8SBdRC
+FwptDH3Em8Cp6UXxNDbY2r93
+dtNhqFtjwUSZzuc5HBXzsZsn
+F4GrYSsXYePSnHzVhBqdPNnk
+ySmJAEmdtsWBYAyXqkABDGy2
+2erFFzsdsGV2hDFfAmCZErPx
+u8ZzBSbqfvqpnjAkkFXYSfyq
+thvPRxunZufsgY3e7ABG7uCF
+Yvmc35zvfrjgRVNvWxJmVdRP
+wa6eeUm9ygv92h7QsMaT5zGk
+C7rnyW8nMs7vuhy3HgKqPY5S
+wafzcKT5jkG6NBW7z7tsuWWu
+8vHDYYzTm7WxM8CwCcVCJpYj
+
+
+     [2017-11-16 17:31:20][un_known][12][35613][3VUwBSUuZxXgfMXKr3nX96EU]
+     [2017-11-16 17:31:21][un_known][12][35614][uJkSpBJr7BRBQzJ2A7jXEquU]
+     [2017-11-16 17:31:21][un_known][12][35615][2nTtYLGY3Lf9Dd6yyzpgASM7]
+     [2017-11-16 17:31:21][un_known][12][35616][rFV4fdh8mkQ6v5ykwD8SBdRC]
+     [2017-11-16 17:31:22][un_known][12][35617][FwptDH3Em8Cp6UXxNDbY2r93]
+     [2017-11-16 17:31:22][un_known][12][35618][dtNhqFtjwUSZzuc5HBXzsZsn]
+     [2017-11-16 17:31:22][un_known][12][35619][F4GrYSsXYePSnHzVhBqdPNnk]
+     No broker partitions consumed by consumer...
+     No broker partitions consumed by consumer...
+     No broker partitions consumed by consumer...
+     No broker partitions consumed by consumer...
+     [2017-11-16 17:31:22][un_known][12][35620][ySmJAEmdtsWBYAyXqkABDGy2]
+     [2017-11-16 17:31:22][un_known][12][35621][2erFFzsdsGV2hDFfAmCZErPx]
+     [2017-11-16 17:31:22][un_known][12][35622][u8ZzBSbqfvqpnjAkkFXYSfyq]
+     [2017-11-16 17:31:22][un_known][12][35623][thvPRxunZufsgY3e7ABG7uCF]
+     [2017-11-16 17:31:22][un_known][12][35617][FwptDH3Em8Cp6UXxNDbY2r93] <- 重复消费
+     [2017-11-16 17:31:23][un_known][12][35624][Yvmc35zvfrjgRVNvWxJmVdRP]
+     [2017-11-16 17:31:23][un_known][12][35625][wa6eeUm9ygv92h7QsMaT5zGk]
+     [2017-11-16 17:31:23][un_known][12][35626][C7rnyW8nMs7vuhy3HgKqPY5S]
+     [2017-11-16 17:31:23][un_known][12][35627][wafzcKT5jkG6NBW7z7tsuWWu]
+     [2017-11-16 17:31:23][un_known][12][35628][8vHDYYzTm7WxM8CwCcVCJpYj]
+     
+     
+     
+
+[2017-11-16 15:23:41][un_known][12][1557][]
