@@ -10,7 +10,7 @@
   'log_setting_pencil.png': PandocResourceNotFound "log_setting_pencil.png"
 * 'container_log_collection.png': PandocResourceNotFound "container_log_collection.png"
 * 'container_logfile_collection.png': PandocResourceNotFound "container_logfile_collection.png"
-# 'mscp%20orth_log_.png': PandocResourceNotFound "mscp orth_log_.png"
+* 'mscp_orth_log.png': PandocResourceNotFound "mscp_orth_log.png"
 * 'logstash_data_flow.png': PandocResourceNotFound "logstash_data_flow.png"
   'arch_es.png': PandocResourceNotFound "arch_es.png"
   'stoage_es.png': PandocResourceNotFound "stoage_es.png"
