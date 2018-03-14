@@ -1,5 +1,5 @@
-#mdc=/mnt/c/Users/yizho/pandoc-2.1.2/bin/pandoc
-mdc=pandoc
+mdc=/mnt/c/Users/yizho/pandoc-2.1.2/bin/pandoc
+#mdc=pandoc
 target=target
 
 all : clean target/log-system.docx
