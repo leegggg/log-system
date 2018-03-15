@@ -1,0 +1,60 @@
+
+[1]王鹏. 云平台下日志分析系统的设计与实现[D].北京邮电大学,2013.
+
+[2]杨华辉. 分布式日志系统的设计与实现[D].北京邮电大学,2015.
+
+[3]曾恒. 基于ELK的网络安全日志管理分析系统的设计与实现[D].北京邮电大学,2017.
+
+[4]徐江生. 容器云平台的设计与实现[D].北京邮电大学,2017.
+
+[5]Xiafei Lei,Zhe Wang,yuzhen He. The Data Management and Real-time Search Based on Elasticsearch[A]. 信息化与工程国际学会.Proceedings of 2015 4th International Conference on Computer,Mechatronics,Control and Electronic Engineering(ICCMCEE 2015)[C].信息化与工程国际学会:,2015:5.
+
+[6]Yicheng Zheng,Feng Deng,Qingmeng Zhu,Yong Deng. CLOUD STORAGE AND SEARCH FOR MASS SPATIO-TEMPORAL DATA THROUGH PROXMOX VE AND ELASTICSEARCH CLUSTER[A]. IEEE Beijing Section.Proceedings of 2014 IEEE 3rd International Conference on Cloud Computing and Intelligence Systems[C].IEEE Beijing Section:,2014:5.
+
+[7]白俊,郭贺彬.基于ElasticSearch的大日志实时搜索的软件集成方案研究[J].吉林师范大学学报(自然科学版),2014,35(01):85-87.
+
+[8]周佳威. Kubernetes跨集群管理的设计与实现[D].浙江大学,2017.
+
+[9]费秀宏. 基于Kafka的日志处理平台的研究[D].吉林大学,2017.
+
+[10]郭栋,王伟,曾国荪.一种基于微服务架构的新型云件PaaS平台[J].信息网络安全,2015(11):15-20.
+
+[11]王岩,王纯.一种基于Kafka的可靠的Consumer的设计方案[J].软件,2016,37(01):61-66.
+
+[12]伍阳.基于Docker的虚拟化技术研究[J].信息技术,2016(01):121-123+128.
+
+[13]王亚玲,李春阳,崔蔚,张晶.基于Docker的PaaS平台建设[J].计算机系统应用,2016,25(03):72-77.
+
+[14]陈建娟,刘行行.基于Kubernetes的分布式ELK日志分析系统[J].电子技术与软件工程,2016(15):211-212+214.
+
+[15]万欣陇. 信息管理系统日志分析系统的设计与实现[D].山东大学,2017.
+
+[16]徐飞. 基于Kubernetes的多租户网络隔离的设计与实现[D].浙江大学,2017.
+
+[17]马越,黄刚.基于Docker的应用软件虚拟化研究[J].软件,2015,36(03):10-14.
+
+[18]刘思尧,李强,李斌.基于Docker技术的容器隔离性研究[J].软件,2015,36(04):110-113.
+
+[19]陈和.运用开源软件Logstash和ElasticSearch实现DSpace日志实时统计分析[J].现代图书情报技术,2015(05):88-93.
+
+[20]余慧佳,刘奕群,张敏,茹立云,马少平.基于大规模日志分析的搜索引擎用户行为分析[J].中文信息学报,2007(01):109-114.
+
+[21]崔航,文继荣,李敏强.基于用户日志的查询扩展统计模型[J].软件学报,2003(09):1593-1599.
+
+[22]宋擒豹,沈钧毅.Web日志的高效多能挖掘算法[J].计算机研究与发展,2001(03):328-333.
+
+[23]罗军舟,金嘉晖,宋爱波,东方.云计算:体系架构与关键技术[J].通信学报,2011,32(07):3-21.
+
+[24]张云勇,陈清金,潘松柏,魏进武.云计算安全关键技术分析[J].电信科学,2010,26(09):64-69.
+
+[25]徐鹏,陈思,苏森.互联网应用PaaS平台体系结构[J].北京邮电大学学报,2012,35(01):120-124.
+
+[26]周剑,张明新.云计算平台即服务PaaS架构研究与设计[J].常熟理工学院学报,2012,26(08):85-88.
+
+[27]Luis Rodero-Merino,Luis M. Vaquero,Eddy Caron,Adrian Muresan,Frédéric Desprez. Building safe PaaS clouds: A survey on security in multitenant software platforms[J]. Computers &amp; Security,2011,31(1).
+
+[28]Cristiano C. A. Vieira,Luiz F. Bittencourt,Edmundo R. M. Madeira. Towards a PaaS Architecture for Resource Allocation in IaaS Providers Considering Different Charging Models[M].Springer International Publishing:2013-06-15.
+
+[29]Peng Xu,Rui Hu,Sen Su. Research on Resource Management in PaaS Based on IaaS Environment[M].Springer Berlin Heidelberg:2013-06-15.
+
+[30]Stefan Walraven,Eddy Truyen,Wouter Joosen. Comparing PaaS offerings in light of SaaS development[J]. Computing,2014,96(8).
