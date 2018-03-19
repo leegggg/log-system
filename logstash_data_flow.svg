@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="processonSvg1000"
+   viewBox="97 198 620.26624 147"
+   width="620.26624"
+   height="147"
+   version="1.1"
+   sodipodi:docname="logstash_data_flow.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata59">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     id="namedview57"
+     showgrid="false"
+     inkscape:zoom="1.2170808"
+     inkscape:cx="414.31899"
+     inkscape:cy="174.19057"
+     inkscape:window-x="1592"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="ProcessOnG1002" />
+  <defs
+     id="ProcessOnDefs1001">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path914"
+         style="fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:#323232;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="ProcessOnMarker1031"
+       markerUnits="userSpaceOnUse"
+       orient="auto"
+       markerWidth="16.236069"
+       markerHeight="10.550837"
+       viewBox="-1.0 -1.3763819204711736 16.23606797749979 10.550836550532098"
+       refX="-1"
+       refY="3.8990364">
+      <path
+         id="ProcessOnPath1032"
+         d="M 12,3.8990364 0,7.7980727 V 0 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#323232;stroke:#323232;stroke-width:2" />
+    </marker>
+    <marker
+       id="ProcessOnMarker1035"
+       markerUnits="userSpaceOnUse"
+       orient="auto"
+       markerWidth="16.236069"
+       markerHeight="10.550837"
+       viewBox="-1.0 -1.3763819204711736 16.23606797749979 10.550836550532098"
+       refX="-1"
+       refY="3.8990364">
+      <path
+         id="ProcessOnPath1036"
+         d="M 12,3.8990364 0,7.7980727 V 0 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#323232;stroke:#323232;stroke-width:2" />
+    </marker>
+    <marker
+       id="ProcessOnMarker1047"
+       markerUnits="userSpaceOnUse"
+       orient="auto"
+       markerWidth="16.236069"
+       markerHeight="10.550837"
+       viewBox="-1.0 -1.3763819204711736 16.23606797749979 10.550836550532098"
+       refX="-1"
+       refY="3.8990364">
+      <path
+         id="ProcessOnPath1048"
+         d="M 12,3.8990364 0,7.7980727 V 0 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#323232;stroke:#323232;stroke-width:2" />
+    </marker>
+    <marker
+       id="ProcessOnMarker1051"
+       markerUnits="userSpaceOnUse"
+       orient="auto"
+       markerWidth="16.236069"
+       markerHeight="10.550837"
+       viewBox="-1.0 -1.3763819204711736 16.23606797749979 10.550836550532098"
+       refX="-1"
+       refY="3.8990364">
+      <path
+         id="ProcessOnPath1052"
+         d="M 12,3.8990364 0,7.7980727 V 0 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#323232;stroke:#323232;stroke-width:2" />
+    </marker>
+  </defs>
+  <g
+     id="ProcessOnG1002"
+     transform="translate(-18.999204,-19)">
+    <path
+       id="ProcessOnPath1003"
+       d="M 97,198 H 757 V 383 H 97 Z"
+       inkscape:connector-curvature="0"
+       style="fill:none" />
+    <g
+       id="ProcessOnG1004">
+      <g
+         id="ProcessOnG1005"
+         transform="translate(231,218)"
+         style="opacity:1">
+        <path
+           id="ProcessOnPath1006"
+           d="M 0,0 H 390 V 145 H 0 Z"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffffff;stroke:#323232;stroke-width:2;stroke-dasharray:10, 4" />
+        <g
+           id="ProcessOnG1007"
+           transform="translate(10)">
+          <text
+             id="ProcessOnText1008"
+             font-size="18"
+             x="184"
+             y="18.450001"
+             font-weight="normal"
+             font-style="normal"
+             text-decoration="none"
+             family="微软雅黑"
+             size="18"
+             style="font-style:normal;font-weight:normal;font-size:18px;font-family:'微软雅黑';text-decoration:none;text-decoration-line:none;text-anchor:middle;fill:#000000">清洗组件</text>
+        </g>
+      </g>
+      <g
+         id="ProcessOnG1009"
+         transform="translate(237,244)"
+         style="opacity:1">
+        <path
+           id="ProcessOnPath1010"
+           d="M 0,0 H 378 V 114 H 0 Z"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffffff;stroke:#323232;stroke-width:2;stroke-dasharray:none" />
+        <g
+           id="ProcessOnG1011"
+           transform="translate(10)">
+          <text
+             id="ProcessOnText1012"
+             font-size="19"
+             x="178"
+             y="19.475"
+             font-weight="normal"
+             font-style="normal"
+             text-decoration="none"
+             family="微软雅黑"
+             size="19"
+             style="font-style:normal;font-weight:normal;font-size:19px;font-family:'微软雅黑';text-decoration:none;text-decoration-line:none;text-anchor:middle;fill:#000000">Logstash</text>
+        </g>
+      </g>
+      <g
+         id="ProcessOnG1013"
+         transform="translate(376,280)"
+         style="opacity:1">
+        <path
+           id="ProcessOnPath1014"
+           d="M 0,4 Q 0,0 4,0 h 92 q 4,0 4,4 v 62 q 0,4 -4,4 H 4 Q 0,70 0,66 Z"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffffff;stroke:#323232;stroke-width:2;stroke-dasharray:none" />
+        <g
+           id="ProcessOnG1015"
+           transform="translate(10,12.5)">
+          <text
+             id="ProcessOnText1016"
+             font-size="18"
+             x="39"
+             y="18.450001"
+             font-weight="normal"
+             font-style="normal"
+             text-decoration="none"
+             family="微软雅黑"
+             size="18"
+             style="font-style:normal;font-weight:normal;font-size:18px;font-family:'微软雅黑';text-decoration:none;text-decoration-line:none;text-anchor:middle;fill:#000000">Filter</text>
+          <text
+             id="ProcessOnText1017"
+             font-size="18"
+             x="39"
+             y="40.950001"
+             font-weight="normal"
+             font-style="normal"
+             text-decoration="none"
+             family="微软雅黑"
+             size="18"
+             style="font-style:normal;font-weight:normal;font-size:18px;font-family:'微软雅黑';text-decoration:none;text-decoration-line:none;text-anchor:middle;fill:#000000">plugin</text>
+        </g>
+      </g>
+      <g
+         id="ProcessOnG1018"
+         transform="translate(253,280)"
+         style="opacity:1">
+        <path
+           id="ProcessOnPath1019"
+           d="M 0,4 Q 0,0 4,0 h 92 q 4,0 4,4 v 62 q 0,4 -4,4 H 4 Q 0,70 0,66 Z"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffffff;stroke:#323232;stroke-width:2;stroke-dasharray:none" />
+        <g
+           id="ProcessOnG1020"
+           transform="translate(10,12.5)">
+          <text
+             id="ProcessOnText1021"
+             font-size="18"
+             x="39"
+             y="18.450001"
+             font-weight="normal"
+             font-style="normal"
+             text-decoration="none"
+             family="微软雅黑"
+             size="18"
+             style="font-style:normal;font-weight:normal;font-size:18px;font-family:'微软雅黑';text-decoration:none;text-decoration-line:none;text-anchor:middle;fill:#000000">Input</text>
+          <text
+             id="ProcessOnText1022"
+             font-size="18"
+             x="39"
+             y="40.950001"
+             font-weight="normal"
+             font-style="normal"
+             text-decoration="none"
+             family="微软雅黑"
+             size="18"
+             style="font-style:normal;font-weight:normal;font-size:18px;font-family:'微软雅黑';text-decoration:none;text-decoration-line:none;text-anchor:middle;fill:#000000">plugin</text>
+        </g>
+      </g>
+      <g
+         id="ProcessOnG1023"
+         transform="translate(504,280)"
+         style="opacity:1">
+        <path
+           id="ProcessOnPath1024"
+           d="M 0,4 Q 0,0 4,0 h 92 q 4,0 4,4 v 62 q 0,4 -4,4 H 4 Q 0,70 0,66 Z"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffffff;stroke:#323232;stroke-width:2;stroke-dasharray:none" />
+        <g
+           id="ProcessOnG1025"
+           transform="translate(10,1.25)">
+          <text
+             id="ProcessOnText1026"
+             font-size="18"
+             x="39"
+             y="18.450001"
+             font-weight="normal"
+             font-style="normal"
+             text-decoration="none"
+             family="微软雅黑"
+             size="18"
+             style="font-style:normal;font-weight:normal;font-size:18px;font-family:'微软雅黑';text-decoration:none;text-decoration-line:none;text-anchor:middle;fill:#000000">Kafka</text>
+          <text
+             id="ProcessOnText1027"
+             font-size="18"
+             x="39"
+             y="40.950001"
+             font-weight="normal"
+             font-style="normal"
+             text-decoration="none"
+             family="微软雅黑"
+             size="18"
+             style="font-style:normal;font-weight:normal;font-size:18px;font-family:'微软雅黑';text-decoration:none;text-decoration-line:none;text-anchor:middle;fill:#000000">Output</text>
+          <text
+             id="ProcessOnText1028"
+             font-size="18"
+             x="39"
+             y="63.450001"
+             font-weight="normal"
+             font-style="normal"
+             text-decoration="none"
+             family="微软雅黑"
+             size="18"
+             style="font-style:normal;font-weight:normal;font-size:18px;font-family:'微软雅黑';text-decoration:none;text-decoration-line:none;text-anchor:middle;fill:#000000">plugin</text>
+        </g>
+      </g>
+      <g
+         id="ProcessOnG1029">
+        <path
+           id="ProcessOnPath1030"
+           d="m 354.16197,315 h 6.60196"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#323232;stroke-width:2;stroke-dasharray:none;marker-end:url(#ProcessOnMarker1031)"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="ProcessOnG1033">
+        <path
+           id="ProcessOnPath1034"
+           d="m 476.41082,315 h 12.35311"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#323232;stroke-width:2;stroke-dasharray:none;marker-end:url(#ProcessOnMarker1035)"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="ProcessOnG1037"
+         transform="translate(117,288)"
+         style="opacity:1">
+        <path
+           id="ProcessOnPath1038"
+           d="M 10.8,49 C -9,35 3.6,24.5 8.1,21 6.3,3.5 28.8,0 37.8,7 45,-3.5 67.5,0 67.5,10.5 c 18,-3.5 25.2,10.5 18,28 6.3,14 0,31.5 -20.7,24.5 -4.5,9.1 -22.5,9.1 -27,0 -9,7 -27,3.5 -27,-14 z"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffffff;stroke:#323232;stroke-width:2;stroke-dasharray:none" />
+        <g
+           id="ProcessOnG1039"
+           transform="translate(10,24.375)">
+          <text
+             id="ProcessOnText1040"
+             font-size="17"
+             x="34"
+             y="17.424999"
+             font-weight="normal"
+             font-style="normal"
+             text-decoration="none"
+             family="微软雅黑"
+             size="17"
+             style="font-style:normal;font-weight:normal;font-size:17px;font-family:'微软雅黑';text-decoration:none;text-decoration-line:none;text-anchor:middle;fill:#000000">收集组件</text>
+        </g>
+      </g>
+      <g
+         id="ProcessOnG1041"
+         transform="translate(647,266)"
+         style="opacity:1">
+        <path
+           id="ProcessOnPath1042"
+           d="M 10.8,49 C -9,35 3.6,24.5 8.1,21 6.3,3.5 28.8,0 37.8,7 45,-3.5 67.5,0 67.5,10.5 c 18,-3.5 25.2,10.5 18,28 6.3,14 0,31.5 -20.7,24.5 -4.5,9.1 -22.5,9.1 -27,0 -9,7 -27,3.5 -27,-14 z"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffffff;stroke:#323232;stroke-width:2;stroke-dasharray:none" />
+        <g
+           id="ProcessOnG1043"
+           transform="translate(10,24.375)">
+          <text
+             id="ProcessOnText1044"
+             font-size="17"
+             x="34"
+             y="17.424999"
+             font-weight="normal"
+             font-style="normal"
+             text-decoration="none"
+             family="微软雅黑"
+             size="17"
+             style="font-style:normal;font-weight:normal;font-size:17px;font-family:'微软雅黑';text-decoration:none;text-decoration-line:none;text-anchor:middle;fill:#000000">缓存组件</text>
+        </g>
+      </g>
+      <g
+         id="ProcessOnG1045">
+        <path
+           id="ProcessOnPath1046"
+           d="m 615,301 c 11.15672,-1.64328 9.38905,-1.76014 16.00027,-1.95864"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#323232;stroke-width:2;stroke-dasharray:none;marker-end:url(#ProcessOnMarker1047)"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="ProcessOnG1049">
+        <path
+           id="ProcessOnPath1050"
+           d="m 202.887,304.1 c 11.22355,-7.85882 14.24929,-4.94869 18.2607,-5.1541"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#323232;stroke-width:2;stroke-dasharray:none;marker-end:url(#ProcessOnMarker1051)"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="ProcessOnG1053">
+        <path
+           id="ProcessOnPath1054"
+           d="M 238,269 H 614.66667"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#323232;stroke-width:2;stroke-dasharray:none" />
+      </g>
+    </g>
+  </g>
+</svg>
